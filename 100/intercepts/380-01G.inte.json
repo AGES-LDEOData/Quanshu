@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 1.4844449725513214,
+        "error": 3.61779319591586,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -57,7 +57,7 @@
         "value": 3.492677259321013e-05
     },
     "Ar39": {
-        "error": 1.5622833888287986e-06,
+        "error": 3.807495945426023e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
@@ -76,7 +76,7 @@
         "value": 0.002885686123526953
     },
     "Ar40": {
-        "error": 3.251282658988139e-06,
+        "error": 7.923815634250364e-06,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": false,
